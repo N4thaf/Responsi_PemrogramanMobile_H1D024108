@@ -6,8 +6,8 @@
 ## 👤 Identitas Praktikan
 - **Nama Lengkap:** Natha
 - **NIM:** H1D024108
-- **Shift Awal:** [Isi Shift Awal]
-- **Shift Akhir:** [Isi Shift Akhir]
+- **Shift Awal:** [Isi Shift Awal, misal: Shift A]
+- **Shift Akhir:** [Isi Shift Akhir, misal: Shift B]
 - **Link Video Demo/Penjelasan:** [YouTube/Google Drive](https://...)
 
 ---
@@ -60,9 +60,9 @@ app/src/main/java/com/example/katalogresep/
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Screen 1 (Home) | Screen 2 (Detail) | Screen 3 (Pencarian) |
+| Screen 1 (Katalog Utama) | Screen 2 (Pencarian Resep) | Screen 3 (Detail Resep) |
 | :---: | :---: | :---: |
-| ![Home Screen](docs/screen1.png) | ![Detail Screen](docs/screen2.png) | ![Search Screen](docs/screen3.png) |
+| ![Katalog Utama](docs/screen1.png) | ![Pencarian Resep](docs/screen2.png) | ![Detail Resep](docs/screen3.png) |
 
 ---
 
