@@ -6,8 +6,8 @@
 ## 👤 Identitas Praktikan
 - **Nama Lengkap:** Natha
 - **NIM:** H1D024108
-- **Shift Awal:** [Isi Shift Awal, misal: Shift A]
-- **Shift Akhir:** [Isi Shift Akhir, misal: Shift B]
+- **Shift Awal:** Shift E
+- **Shift Akhir:** Shift E
 - **Link Video Demo/Penjelasan:** [YouTube/Google Drive](https://...)
 
 ---
