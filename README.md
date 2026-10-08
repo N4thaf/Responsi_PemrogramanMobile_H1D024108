@@ -4,11 +4,11 @@
 ---
 
 ## 👤 Identitas Praktikan
-- **Nama Lengkap:** Natha
+- **Nama Lengkap:** Althaf Nadhif Saputra
 - **NIM:** H1D024108
 - **Shift Awal:** Shift E
 - **Shift Akhir:** Shift E
-- **Link Video Demo/Penjelasan:** [YouTube/Google Drive](https://...)
+- **Link Video Demo/Penjelasan:** https://youtu.be/gToZof3FMKQ
 
 ---
 
